@@ -1,0 +1,14 @@
+buka r proj hugo book
+buka index.rmd yang siinya kosongan
+menu addins-> new post
+di new post, title artikel, author team algoritma, categories industries, tags : R,pythn
+format .rmd
+
+content-> post-> otomatis bikin foledr untuk post yg baru dibuat, masukin data input dan aset ke folder baru tsb
+
+copy folder aset utama ke folder baru
+
+
+bulid blodown
+- blogdown::build_site()
+- blogdown::server_site()
